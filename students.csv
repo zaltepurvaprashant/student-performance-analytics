@@ -1,0 +1,17 @@
+StudentID,Name,Department,Math,Science,English,Attendance
+101,Aarav Sharma,Computer Science,85,90,78,92
+102,Rohan Verma,Electrical,72,65,80,85
+103,Priya Patel,Mechanical,90,92,88,95
+104,Neha Singh,Electrical,60,55,70,78
+105,Amit Kumar,Civil,78,82,75,88
+106,Sneha Joshi,Computer Science,95,94,92,98
+107,Rahul Deshmukh,Electrical,45,50,60,70
+108,Ananya Iyer,Mechanical,82,88,85,90
+109,Vikram Malhotra,Civil,68,72,65,82
+110,Kiran More,Computer Science,88,85,90,94
+111,Pooja Nair,Electrical,55,60,58,75
+112,Manish Gupta,Mechanical,75,70,72,80
+113,Divya Kulkarni,Civil,92,95,89,96
+114,Siddharth Rao,Computer Science,79,81,83,89
+115,Tanvi Kadam,Electrical,64,68,70,81
+116,Akash Pawar,Mechanical,50,45,55,65
